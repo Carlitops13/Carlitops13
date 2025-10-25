@@ -42,7 +42,7 @@
 <!-- BLOQUE DE GIF (GOJO) -->
 
 <p align="center">
-<img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJidTIwMzZ1Y2RqMWZvcW5tcWd0cmV4cGpvZzgxZW9xNzViaWpybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vmWCBFqmJ5D7Er6H2F/giphy.gif"  />
+<img height="200" src="https://tenor.com/m1vcR3HDbdt.gif"  />
 </p>
 
 <!-- BLOQUE DE ESTADÍSTICAS (SOLO STREAK) -->
@@ -61,9 +61,4 @@
 
 <!-- BLOQUE DE SPOTIFY (NUEVO) -->
 
-<p align="center">
-<a href="https://github.com/kittinan/spotify-github-profile">
-<!-- Corregí tu ID de Spotify (tenía 'iv4' en lugar de 'ivc') -->
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31suqvop3g7qwsivcsuoj7hbszu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify Now Playing">
-</a>
-</p>
+
