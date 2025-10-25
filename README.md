@@ -39,11 +39,11 @@
 </a>
 </p>
 
-<!-- BLOQUE DE GIF (SUKUNA) -->
+<!-- BLOQUE DE GIF (GOJO) -->
 
 <p align="center">
-<!-- Este es el enlace directo al GIF de Sukuna -->
-<img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWI4OGZjcWVsem40YnQ1eGVqanRidGZwYnZidXZkbjIxbHZtcmp5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vmWCBFqmJ5D7Er6H2F/giphy.gif" alt="Sukuna Ryomen Sukuna GIF" />
+<!-- Enlace directo a Giphy para evitar el botón de play -->
+<img height="200" src="https://i.giphy.com/media/vmWCBFqmJ5D7Er6H2F/giphy.gif" alt="Gojo Satoru GIF" />
 </p>
 
 <!-- BLOQUE DE ESTADÍSTICAS (SOLO STREAK) -->
@@ -59,7 +59,4 @@
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Carlitops13/Carlitops13/output/pacman-contribution-graph.svg">
 <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Carlitops13/Carlitops13/output/pacman-contribution-graph.svg">
 </picture>
-
-<!-- BLOQUE DE SPOTIFY (NUEVO) -->
-
 
