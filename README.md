@@ -43,7 +43,7 @@
 
 <p align="center">
 <!-- Este es el enlace directo al GIF de Sukuna -->
-<img height="200" src="https://media.tenor.com/M9T1hNC-h0AAAAAd/sukuna-ryomen-sukuna.gif" alt="Sukuna Ryomen Sukuna GIF" />
+<img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWI4OGZjcWVsem40YnQ1eGVqanRidGZwYnZidXZkbjIxbHZtcmp5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vmWCBFqmJ5D7Er6H2F/giphy.gif" alt="Sukuna Ryomen Sukuna GIF" />
 </p>
 
 <!-- BLOQUE DE ESTADÍSTICAS (SOLO STREAK) -->
@@ -62,8 +62,4 @@
 
 <!-- BLOQUE DE SPOTIFY (NUEVO) -->
 
-<p align="center">
-<a href="https://github.com/kittinan/spotify-github-profile">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31suqvop3g7qwsivcsuoj7hbszu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify Now Playing">
-</a>
-</p>
+
