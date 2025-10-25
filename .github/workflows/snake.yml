@@ -11,6 +11,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    # --- INICIO DE LA CORRECCIÓN ---
+    # Añade este bloque de permisos para que la acción pueda escribir en la rama
+    permissions:
+      contents: write
+    # --- FIN DE LA CORRECCIÓN ---
+
     steps:
       # 1. Este paso descarga tu rama `main` (por defecto)
       - name: Checkout
