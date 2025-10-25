@@ -5,41 +5,36 @@ on:
     # Se ejecuta cada 6 horas
     - cron: "0 */6 * * *"
   workflow_dispatch:
-    # Esto te permite ejecutarlo manualmente desde la pestaña "Actions"
+
+# Añade permisos de escritura para que la action pueda hacer push a la rama 'output'
+permissions: 
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
-    # --- INICIO DE LA CORRECCIÓN ---
-    # Añade este bloque de permisos para que la acción pueda escribir en la rama
-    permissions:
-      contents: write
-    # --- FIN DE LA CORRECCIÓN ---
-
     steps:
-      # 1. Este paso descarga tu rama `main` (por defecto)
       - name: Checkout
         uses: actions/checkout@v3
 
-      # 2. Este paso genera las imágenes SVG
       - name: Generate Snake animation
         uses: platane/snk@v3
         id: snake
         with:
-          github_user_name: Carlitops13 # <-- Lee tus contribuciones
+          github_user_name: Carlitops13 # <-- Tu usuario
+          # Genera los archivos del pacman
           outputs: |
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
 
-      # 3. Este paso sube las imágenes a la rama `output`
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          # `target_branch` es la rama de *destino* para las imágenes,
-          # no la rama donde está tu código. Esto es correcto.
-          target_branch: output 
+          target_branch: output # <-- El nombre de la rama donde se guardan
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
 
