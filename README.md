@@ -39,10 +39,11 @@
 </a>
 </p>
 
-<!-- BLOQUE DE GIF (GOJO) -->
+<!-- BLOQUE DE GIF (SUKUNA) -->
 
 <p align="center">
-<img height="200" src="https://tenor.com/m1vcR3HDbdt.gif"  />
+<!-- Este es el enlace directo al GIF de Sukuna -->
+<img height="200" src="https://media.tenor.com/M9T1hNC-h0AAAAAd/sukuna-ryomen-sukuna.gif" alt="Sukuna Ryomen Sukuna GIF" />
 </p>
 
 <!-- BLOQUE DE ESTADÍSTICAS (SOLO STREAK) -->
@@ -51,7 +52,7 @@
 <img src="https://streak-stats.demolab.com?user=Carlitops13&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </p>
 
-<!-- BLOQUE DE GRÁFICO PACMAN (NECESITA LA ACTION DE ARRIBA) -->
+<!-- BLOQUE DE GRÁFICO PACMAN (NECESITA LA ACTION) -->
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carlitops13/Carlitops13/output/pacman-contribution-graph-dark.svg">
@@ -61,4 +62,8 @@
 
 <!-- BLOQUE DE SPOTIFY (NUEVO) -->
 
-
+<p align="center">
+<a href="https://github.com/kittinan/spotify-github-profile">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31suqvop3g7qwsivcsuoj7hbszu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify Now Playing">
+</a>
+</p>
