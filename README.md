@@ -42,7 +42,7 @@
 <!-- BLOQUE DE GIF (GOJO) -->
 
 <p align="center">
-<img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9veDlhZjNhMHdodnJ5ajZvOGozdGV1Zjd2cno5Ymo1dHZwazJoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cByts7baForf4uj0eU/giphy.gif"  />
+<img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJidTIwMzZ1Y2RqMWZvcW5tcWd0cmV4cGpvZzgxZW9xNzViaWpybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vmWCBFqmJ5D7Er6H2F/giphy.gif"  />
 </p>
 
 <!-- BLOQUE DE ESTADÍSTICAS (SOLO STREAK) -->
