@@ -43,7 +43,7 @@
 
 <p align="center">
 <!-- Enlace directo a Giphy para evitar el botón de play -->
-<img height="200" src="https://i.giphy.com/media/vmWCBFqmJ5D7Er6H2F/giphy.gif" alt="Gojo Satoru GIF" />
+<img height="200" src="https://imgur.com/gallery/sukuna-fighting-scene-hKufZHJ#x9kHLoz" alt="Gojo Satoru GIF" />
 </p>
 
 <!-- BLOQUE DE ESTADÍSTICAS (SOLO STREAK) -->
