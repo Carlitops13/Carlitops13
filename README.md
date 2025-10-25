@@ -43,7 +43,7 @@
 
 <p align="center">
 <!-- Enlace directo a Giphy para evitar el botón de play -->
-<img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWY3N2w4cG80MjZ5MGRiYXViM2ozMGIxN2lmOG5zbTA1OXZleGJhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vmWCBFqmJ5D7Er6H2F/giphy.gif alt="Gojo Satoru GIF" />
+<img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWY3N2w4cG80MjZ5MGRiYXViM2ozMGIxN2lmOG5zbTA1OXZleGJhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vmWCBFqmJ5D7Er6H2F/giphy.gif" alt="Gojo Satoru GIF" />
 </p>
 
 <!-- BLOQUE DE ESTADÍSTICAS (SOLO STREAK) -->
