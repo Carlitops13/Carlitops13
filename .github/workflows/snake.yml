@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Pacman
 
 on:
   schedule:
@@ -6,7 +6,6 @@ on:
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
-# Añade permisos de escritura para que la action pueda hacer push a la rama 'output'
 permissions: 
   contents: write
 
@@ -18,12 +17,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Snake animation
+      - name: Generate Pacman animation
         uses: platane/snk@v3
-        id: snake
+        id: pacman
         with:
-          github_user_name: Carlitops13 # <-- Tu usuario
-          # Genera los archivos del pacman
+          github_user_name: Carlitops13  # <-- Tu usuario de GitHub
+          # Usa el modo Pacman (no snake)
+          mode: pacman
           outputs: |
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
@@ -31,10 +31,7 @@ jobs:
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output # <-- El nombre de la rama donde se guardan
+          target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
-
