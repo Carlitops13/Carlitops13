@@ -2,7 +2,7 @@ name: Generate Pacman Contributions
 
 on:
   schedule:
-    # Se ejecuta una vez al día (ajústalo si quieres)
+    # Ejecutar una vez al día (ajústalo si quieres)
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -26,15 +26,22 @@ jobs:
         run: |
           npm install -g pacman-contribution-graph
 
-      - name: Generate Pacman graph
+      - name: Generate Pacman graph (dark mode)
         run: |
           mkdir -p dist
           npx pacman-contribution-graph \
+            --platform github \
+            --gameTheme github-dark \
             --username Carlitops13 \
-            --output dist/pacman-contribution-graph.svg \
-            --theme dark \
-            --width 800 \
-            --height 200
+            --output dist/pacman-contribution-graph-dark.svg
+
+      - name: Generate Pacman graph (light mode)
+        run: |
+          npx pacman-contribution-graph \
+            --platform github \
+            --gameTheme github \
+            --username Carlitops13 \
+            --output dist/pacman-contribution-graph.svg
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
