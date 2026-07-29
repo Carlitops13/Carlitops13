@@ -28,7 +28,7 @@
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Carlitops13&show_icons=true&theme=dracula&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Carlitops13&locale=en&mode=daily&theme=dracula&hide_border=true" height="150" alt="Streak Stats" />
+ 
 </p>
 
 <!-- ANIMACIÓN PACMAN -->
