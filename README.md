@@ -22,7 +22,7 @@
 
 <!-- BLOQUE DE ESTADÍSTICAS -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Carlitops13&theme=dracula&hide_border=false" height="150" alt="streak graph" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Carlitops13&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
 </p>
 
 <!-- GRÁFICO PACMAN -->
