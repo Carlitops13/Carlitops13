@@ -1,20 +1,34 @@
-<h1 align="center">Hey 👋 What's Up? I'm Carlos</h1>
+<h1 align="center">H e y,  I ' m  C a r l o s</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Software+Development+%26+Computer+Engineering;Full-Stack+Developer+%7C+Java+%26+JS;Building+Awesome+Web+%26+Mobile+Apps" alt="Typing SVG" />
+  <font face="Courier New" size="3">
+    <b>SOFTWARE DEVELOPMENT ENGINEERING STUDENT</b>
+  </font>
+  <br>
+  <font face="Arial" size="2">
+    <i>Escuela Politécnica Nacional (EPN)</i>
+  </font>
 </p>
 
-<!-- OCTOCAT DE OCTODEX Y GIF ANIMADO PRINCIPAL -->
+<!-- ENCABEZADO ANIMADO (TIPOGRAFÍA INTER) -->
 <p align="center">
-  <img height="220" src="./octocat.png" alt="My Custom Octocat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=18&pause=1000&color=F72585&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+JS+%26+Databases;Building+Scalable+Web+%26+Software+Solutions;Passionate+about+Clean+Code+%26+Tech" alt="Typing SVG" />
+</p>
+
+<br>
+<!-- OCTOCAT Y GIF PRINCIPAL -->
+<p align="center">
+  <img height="210" src="./octocat.png" alt="My Custom Octocat" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="220" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated GIF" />
+  <img height="210" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated GIF" />
 </p>
 
-<!-- SECCIÓN DE TECNOLOGÍAS ANIMADAS (MÁS GRANDES Y TUS LINKS EXACTOS) -->
-<h3 align="center">🛠️ Tech Stack & Tools (Animated)</h3>
+---
 
-<!-- LENGUAJES Y HERRAMIENTAS CON GIFS -->
+<!-- SECCIÓN DE TECNOLOGÍAS ANIMADAS -->
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
+
+<!-- LENGUAJES Y PLATAFORMAS (GIFS) -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="55" height="55" alt="Python" />
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="55" height="55" alt="C++" />
@@ -23,10 +37,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="55" height="55" alt="CSS3" />
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="55" height="55" alt="Docker" />
   <img src="http://private-user-images.githubusercontent.com/74038190/238200433-3fb2cdf6-8920-462e-87a4-95af376418aa.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODUzNTAxNTcsIm5iZiI6MTc4NTM0OTg1NywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MzMtM2ZiMmNkZjYtODkyMC00NjJlLTg3YTQtOTVhZjM3NjQxOGFhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzI5VDE4MzA1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNjYjg0NTJlMDFmMTRlOTg5ODA4YWVlOGI0MGE4ZWYxZWVlMWZkYTc4ZmU1ZWVmYTE3M2ZhYWQ2NjgxNmU3MzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.26NlLLtmOOt8y1VRc4rGgla8CMVVZLS0AYnDrM-P8v4" width="55" height="55" alt="Ubuntu" />
-  <img src="https://private-user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODUzNTAxNTcsIm5iZiI6MTc4NTM0OTg1NywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA2MjAtMzk4YjE5YjEtOWFhZS00YzFmLThiYzAtZDE3MmEyYzA4ZDY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzI5VDE4MzA1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEzZGE0ZGQyZDBkY2MwMDk5MTk4YmU1YmMwOWU4ODFkMDFmOTg2MzQ0ZGFmNGNiODU0N2EzMTVmMGU3NDRmY2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.DcD6VFus3O-ByCCeoWE9BPeQBbhp2k5lJ2rtnmoVuf8" width="55" height="55" alt="MongoDB" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODUzNTAxNTcsIm5iZiI6MTc4NTM0OTg1NywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA2MjAtMzk4YjE5YjEtOWFhZS00YzFmLThiYzAtZDE3MmEyYzA4ZDY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzI5VDE4MzA1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmJlSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.DcD6VFus3O-ByCCeoWE9BPeQBbhp2k5lJ2rtnmoVuf8" width="55" height="55" alt="MongoDB" />
 </p>
 
-<!-- FRAMEWORKS & ECOSYSTEM -->
+<!-- FRAMEWORKS & ECOSISTEMA (BADGES COMPACTOS Y ALINEADOS) -->
 <p align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -38,34 +52,33 @@
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
 </p>
 
-<br />
+---
 
-<!-- REDES SOCIALES -->
+<!-- REDES SOCIALES Y CONTACTO -->
 <p align="center">
   <a href="https://www.instagram.com/carlitos.doodles/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram logo" />
   </a>
+  &nbsp;
   <a href="https://discord.com/users/carlitops" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord logo" />
   </a>
 </p>
 
-<br />
+---
 
-<!-- ESTADÍSTICAS EN LÍNEA -->
+<!-- ESTADÍSTICAS E IMPACTO -->
 <h3 align="center">📊 GitHub Metrics</h3>
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Carlitops13&show_icons=true&theme=dracula&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Carlitops13&show_icons=true&theme=dracula&hide_border=true" height="160" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=Carlitops13&locale=en&mode=daily&theme=dracula&hide_border=true" height="165" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Carlitops13&locale=en&mode=daily&theme=dracula&hide_border=true" height="160" alt="Streak Stats" />
 </p>
 
-<br />
+---
 
-<!-- ANIMACIONES PACMAN Y SNAKE -->
-<h3 align="center">👾 Contribution Activities</h3>
-
-
+<!-- ANIMACIÓN SNAKE (ÚNICA Y PRINCIPAL) -->
+<h3 align="center">🐍 Contribution Activity</h3>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carlitops13/Carlitops13/output/pacman-contribution-graph-dark.svg">
@@ -73,4 +86,3 @@
     <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Carlitops13/Carlitops13/output/pacman-contribution-graph.svg">
   </picture>
 </p>
-
