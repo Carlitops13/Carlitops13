@@ -31,15 +31,7 @@
  
 </p>
 
-<!-- ANIMACIÓN PACMAN -->
-<h3 align="center">👾 Pacman Eating Contributions</h3>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carlitops13/Carlitops13/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Carlitops13/Carlitops13/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Carlitops13/Carlitops13/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
+
 
 <!-- ANIMACIÓN SNAKE -->
 <h3 align="center">🐍 Snake Eating Contributions</h3>
