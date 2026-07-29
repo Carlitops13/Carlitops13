@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 What's Up? I'm Carlos</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Software+Development+%26+Computer+Engineering;Full-Stack+Developer+%7C+Java+%26+JS;Building+Awesome+Web+%26+Mobile+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Software+Development;Full-Stack+Developer;Building+Awesome+Web+%26+Mobile+Apps" alt="Typing SVG" />
 </p>
 
 <!-- BLOQUE DE TECNOLOGÍAS -->
