@@ -63,13 +63,14 @@
 <br />
 
 <!-- ANIMACIONES PACMAN Y SNAKE -->
+<h3 align="center">👾 Contribution Activities</h3>
 
 
-<p align="center"><b>Snake Eats Contributions</b></p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carlitops13/Carlitops13/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Carlitops13/Carlitops13/output/github-contribution-grid-snake.svg">
-    <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/Carlitops13/Carlitops13/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carlitops13/Carlitops13/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Carlitops13/Carlitops13/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Carlitops13/Carlitops13/output/pacman-contribution-graph.svg">
   </picture>
 </p>
+
