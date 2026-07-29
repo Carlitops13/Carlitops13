@@ -1,9 +1,9 @@
-name: Generate Pacman Contributions
+name: Generate Pacman Animation
 
 on:
   schedule:
-    # Ejecutar una vez al día (ajústalo si quieres)
-    - cron: "0 0 * * *"
+    # Se ejecuta cada 6 horas
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -14,37 +14,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Generate Pacman animation
+        uses: platane/snk@v3
+        id: pacman
         with:
-          node-version: 20
-
-      - name: Install Pacman generator
-        run: |
-          npm install -g pacman-contribution-graph
-
-      - name: Generate Pacman graph (dark mode)
-        run: |
-          mkdir -p dist
-          npx pacman-contribution-graph \
-            --platform github \
-            --gameTheme github-dark \
-            --username Carlitops13 \
-            --output dist/pacman-contribution-graph-dark.svg
-
-      - name: Generate Pacman graph (light mode)
-        run: |
-          npx pacman-contribution-graph \
-            --platform github \
-            --gameTheme github \
-            --username Carlitops13 \
-            --output dist/pacman-contribution-graph.svg
+          github_user_name: Carlitops13
+          outputs: |
+            dist/pacman-contribution-graph.svg?mode=pacman
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark&mode=pacman
 
       - name: Deploy to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v3.6.1
         with:
           target_branch: output
           build_dir: dist
