@@ -36,7 +36,7 @@ jobs:
 
       # Publica ambos resultados en la rama "output"
       - name: Deploy to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.6.1
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
