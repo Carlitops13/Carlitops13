@@ -22,7 +22,7 @@
 
 <!-- BLOQUE DE ESTADÍSTICAS -->
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Carlitops13&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Carlitops13&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
 </p>
 
 <!-- GRÁFICO PACMAN -->
