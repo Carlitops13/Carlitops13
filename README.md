@@ -1,8 +1,12 @@
-<h1 align="center">H e y,  I ' m  C a r l o s</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&vCenter=true&width=500&lines=Hey!+It's+Carlos!" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <font face="Courier New" size="3">
-    <b>SOFTWARE DEVELOPMENT ENGINEERING STUDENT</b>
+    <b>SOFTWARE DEVELOPMENT STUDENT</b>
   </font>
   <br>
   <font face="Arial" size="2">
@@ -74,6 +78,13 @@
   &nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com?user=Carlitops13&locale=en&mode=daily&theme=dracula&hide_border=true" height="160" alt="Streak Stats" />
 </p>
+<p align="center">
+  <a href="https://github.com/Carlitops13">
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Carlitops13&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+</a>
+</div>
 
 ---
 
