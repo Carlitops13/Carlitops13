@@ -74,13 +74,13 @@
 <!-- ESTADÍSTICAS E IMPACTO -->
 <h3 align="center">📊 GitHub Metrics</h3>
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Carlitops13&show_icons=true&theme=dracula&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mangodev-hub&show_icons=true&theme=dracula&hide_border=true" height="160" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=Carlitops13&locale=en&mode=daily&theme=dracula&hide_border=true" height="160" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=mangodev-hub&locale=en&mode=daily&theme=dracula&hide_border=true" height="160" alt="Streak Stats" />
 </p>
 <p align="center">
   <a href="https://github.com/Carlitops13">
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Carlitops13&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mangodev-hub&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 </a>
@@ -94,6 +94,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carlitops13/Carlitops13/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Carlitops13/Carlitops13/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Carlitops13/Carlitops13/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/mangodev-hub/mangodev-hub/output/pacman-contribution-graph.svg">
   </picture>
 </p>
