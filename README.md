@@ -32,7 +32,7 @@
 <!-- SECCIÓN DE TECNOLOGÍAS ANIMADAS -->
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
 
-<!-- LENGUAJES Y PLATAFORMAS (GIFS) -->
+<!-- LENGUAJES Y PLATAFORMAS -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="55" height="55" alt="Python" />
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="55" height="55" alt="C++" />
@@ -40,11 +40,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="55" height="55" alt="HTML5" />
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="55" height="55" alt="CSS3" />
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="55" height="55" alt="Docker" />
-  <img src="http://private-user-images.githubusercontent.com/74038190/238200433-3fb2cdf6-8920-462e-87a4-95af376418aa.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODUzNTAxNTcsIm5iZiI6MTc4NTM0OTg1NywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MzMtM2ZiMmNkZjYtODkyMC00NjJlLTg3YTQtOTVhZjM3NjQxOGFhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzI5VDE4MzA1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNjYjg0NTJlMDFmMTRlOTg5ODA4YWVlOGI0MGE4ZWYxZWVlMWZkYTc4ZmU1ZWVmYTE3M2ZhYWQ2NjgxNmU3MzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.26NlLLtmOOt8y1VRc4rGgla8CMVVZLS0AYnDrM-P8v4" width="55" height="55" alt="Ubuntu" />
-  <img src="https://private-user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODUzNTAxNTcsIm5iZiI6MTc4NTM0OTg1NywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA2MjAtMzk4YjE5YjEtOWFhZS00YzFmLThiYzAtZDE3MmEyYzA4ZDY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzI5VDE4MzA1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmJlSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.DcD6VFus3O-ByCCeoWE9BPeQBbhp2k5lJ2rtnmoVuf8" width="55" height="55" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="50" height="50" alt="Ubuntu" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" />
 </p>
 
-<!-- FRAMEWORKS & ECOSISTEMA (BADGES COMPACTOS Y ALINEADOS) -->
+<!-- FRAMEWORKS & ECOSISTEMA -->
 <p align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -74,26 +74,24 @@
 <!-- ESTADÍSTICAS E IMPACTO -->
 <h3 align="center">📊 GitHub Metrics</h3>
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mangodev-hub&show_icons=true&theme=dracula&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mangodev-hub&show_icons=true&theme=dracula&hide_border=true" height="165" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=mangodev-hub&locale=en&mode=daily&theme=dracula&hide_border=true" height="160" alt="Streak Stats" />
+  <img  />
 </p>
 <p align="center">
-  <a href="https://github.com/Carlitops13">
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mangodev-hub&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/mangodev-hub">
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mangodev-hub&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Languages" />
   </a>
 </p>
-</a>
-</div>
 
 ---
 
-<!-- ANIMACIÓN SNAKE (ÚNICA Y PRINCIPAL) -->
+<!-- ANIMACIÓN PACMAN -->
 <h3 align="center">🐍 Contribution Activity</h3>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carlitops13/Carlitops13/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Carlitops13/Carlitops13/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mangodev-hub/mangodev-hub/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mangodev-hub/mangodev-hub/output/pacman-contribution-graph.svg">
     <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/mangodev-hub/mangodev-hub/output/pacman-contribution-graph.svg">
   </picture>
 </p>
