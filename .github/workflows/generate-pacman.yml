@@ -21,7 +21,7 @@ jobs:
         uses: platane/snk@v3
         id: pacman
         with:
-          github_user_name: Carlitops13
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/pacman-contribution-graph.svg?mode=pacman
             dist/pacman-contribution-graph-dark.svg?palette=github-dark&mode=pacman
