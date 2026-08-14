@@ -1,33 +1,31 @@
-name: Generate Snake
+name: Generate Contribution Animations
 
 on:
+  # Se ejecuta automáticamente todos los días a medianoche
   schedule:
-    # Se ejecuta cada 6 horas
-    - cron: "0 */6 * * *"
+    - cron: "0 0 * * *"
+  # Permite ejecutarlo manualmente desde la pestaña Actions
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Generate Snake animation
-        uses: platane/snk@v3
-        id: snake
+      # Genera el GIF del juego con tu usuario
+      - uses: Platane/snk@v3
         with:
-          github_user_name: Carlitops13 # <-- Asegúrate que tu usuario esté aquí
-          # Estas son las líneas clave para generar tus archivos de pacman
+          github_user_name: mangodev-hub
           outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+            dist/space-shooter.gif?palette=github-dark
+            dist/github-contribution-grid-snake.svg
 
-      - name: Deploy to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      # Sube los archivos generados a la rama 'output'
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output # <-- El nombre de la rama donde se guardan
+          target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
