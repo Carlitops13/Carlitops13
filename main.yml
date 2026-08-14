@@ -1,31 +1,29 @@
-name: Generate Contribution Animations
+name: Generate Space Shooter Animation
 
 on:
-  # Se ejecuta automáticamente todos los días a medianoche
   schedule:
     - cron: "0 0 * * *"
-  # Permite ejecutarlo manualmente desde la pestaña Actions
   workflow_dispatch:
 
 jobs:
-  build:
+  update-game:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      # Genera el GIF del juego con tu usuario
-      - uses: Platane/snk@v3
+      - uses: czl9707/gh-space-shooter@v2
         with:
-          github_user_name: mangodev-hub
-          outputs: |
-            dist/space-shooter.gif?palette=github-dark
-            dist/github-contribution-grid-snake.svg
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: 'mangodev-hub'
+          output-path: 'space-shooter.gif'
+          strategy: 'random'
 
-      # Sube los archivos generados a la rama 'output'
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
