@@ -39,7 +39,7 @@
 El gráfico de contribuciones refleja el trabajo continuo e iterativo. Se actualiza automáticamente desde este repositorio y transforma la actividad pública en un pequeño sistema visual.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mangodev-hub/mangodev-hub/output/space-shooter.gif" width="100%" alt="Juego Space Shooter basado en contribuciones de Carlos Puente" />
+  <img src="https://github.com/mangodev-hub/mangodev-hub/blob/main/space-shooter.gif" width="100%" alt="Juego Space Shooter basado en contribuciones de Carlos Puente" />
 </p>
 
 
