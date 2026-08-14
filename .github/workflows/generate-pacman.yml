@@ -1,10 +1,8 @@
 name: Generate Space Shooter Animation
 
 on:
-  # Se ejecuta automáticamente todos los días a medianoche UTC
   schedule:
     - cron: "0 0 * * *"
-  # Permite ejecutarlo manualmente desde la pestaña Actions
   workflow_dispatch:
 
 jobs:
@@ -14,10 +12,7 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 2
 
-      # Acción específica para generar el Space Shooter
       - uses: czl9707/gh-space-shooter@v2
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
@@ -25,7 +20,6 @@ jobs:
           output-path: 'space-shooter.gif'
           strategy: 'random'
 
-      # Sube el GIF generado a la rama 'output'
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
