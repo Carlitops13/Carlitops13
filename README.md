@@ -34,9 +34,7 @@
   <img src="https://www.gitskins.com/api/section/stats?username=mangodev-hub&theme=aurora" width="100%" alt="Estadísticas de GitHub de Carlos Puente" />
 </p>
 
-## Un perfil dinámico
 
-El gráfico de contribuciones refleja el trabajo continuo e iterativo. Se actualiza automáticamente desde este repositorio y transforma la actividad pública en un pequeño sistema visual.
 
 <p align="center">
   <img src="https://github.com/mangodev-hub/mangodev-hub/blob/main/space-shooter.gif" width="100%" alt="Juego Space Shooter basado en contribuciones de Carlos Puente" />
