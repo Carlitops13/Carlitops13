@@ -24,7 +24,7 @@
   <a href="mailto:carlos.puente@epn.edu.ec">Contactar por correo institucional</a>
 </p>
 
-## Señal de ingeniería
+
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/stack?username=mangodev-hub&theme=aurora" width="100%" alt="Stack tecnológico de Carlos Puente" />
